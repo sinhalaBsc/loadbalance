@@ -1,0 +1,4 @@
+Addressing Challenges in an Anycast CDN
+https://www.youtube.com/watch?v=40MONHHF2BU
+ඇමරිකාවේ සිට ඔස්ට්‍රේලියාවට tcp request යවා response ලැබීමට ගතවන කාලය ආසන්න වශයෙන් RTT =180ms පමණ වේ.
+ඊට අමතරව ssl තිබේනම් ආරම්භයේ handshake negotiation සඳහා තවත් tcp rout දෙකක කාලයක් ගතවේ.  
